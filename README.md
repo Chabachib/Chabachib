@@ -20,10 +20,10 @@ Credits and references used in this README:
       <img src="assets/gifs/mynameis.gif" width="250">
     </td>
     <td valign="middle">
-      <p align="center">
+      <p align="center" style="font-size: 24px">
         <b>Nouh Taha CHEBCHOUB</b><br> 
       </p>
-      <p align="justify">
+      <p align="justify" style="font-size: 17px">
         AI Engineer & Data Scientist specializing in end-to-end 
         machine learning systems, from data engineering to model deployment,
         with a focus on scalability and performance.
