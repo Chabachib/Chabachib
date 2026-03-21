@@ -11,7 +11,7 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 😎 Welcome to Chabachib's Github 😊
+<h1 align="center"> 😎 Welcome to Chabachib's Github 😊 </h1>
 
 ## My name is ...
 <table>
@@ -35,7 +35,7 @@ Credits and references used in this README:
 ## Skill stack
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,python,fastapi,grafana,kafka,mongodb,mysql,opencv,postgres,postman,pytorch,redis,sklearn,tensorflow&theme=light&perline=8)](https://skillicons.dev)
 
-**Also comfortable with**: whatever the Project/Job requires, always open to learn new things 😎
+**Also comfortable with**: whatever the Project/Job requires, always open to learn new things and fast 😎
 
 ---
 
