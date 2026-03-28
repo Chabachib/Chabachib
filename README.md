@@ -1,16 +1,3 @@
-<!--
-Credits and references used in this README:
-
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
-
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
-
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
--->
-
 <h1 align="center"> 😎 Welcome to Chabachib's Github 😊 </h1>
 
 ## My name is ...
@@ -39,7 +26,7 @@ Credits and references used in this README:
 
 ---
 
-## Projects - showcase
+<!-- ## Projects - showcase
 
 <table width="100%">
   <tr>
@@ -79,7 +66,7 @@ Credits and references used in this README:
       🔗 <a href="#">Check the Repository</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ## Contact me 
