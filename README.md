@@ -1,58 +1,24 @@
-<div align="center">
+### Hi 👋, I'm Nouh Taha
 
-# Nouh Taha Chebchoub
+I'm an AI Engineer and Data Scientist specializing in building end-to-end machine learning systems — from data engineering and pipeline architecture to production model deployment, with a focus on scalability and performance.
 
-**AI Engineer · Data Scientist**
+- 🔭 Currently working on scalable ML infrastructure, real-time data pipelines, and production AI systems.
+- 🛠️ My go-to stack: Python, FastAPI, Docker, PostgreSQL, MinIO, Grafana, Hashicorp Vault, and whatever the project demands.
+- 🌱 Always learning — currently diving deeper into MLOps and distributed systems.
+- 💬 Ask me about **machine learning systems, data engineering, MLOps, and AI deployment**.
+- 📫 Reach me at [nouhtahachebchoub@gmail.com](mailto:nouhtahachebchoub@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nouh-taha-chebchoub/).
+- 📄 Check out my [CV](assets/docs/CV.pdf).
 
-Building end-to-end ML systems — from data engineering to production deployment,  
-with a focus on scalability and performance.
+Some projects I've built or contributed to:
 
-<br>
+<!-- Keep project entries sorted newest-to-oldest. -->
 
-<a href="https://www.linkedin.com/in/nouh-taha-chebchoub/">
-  <img src="assets/icons/linkedin.svg" width="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:nouhtahachebchoub@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="assets/docs/CV.pdf">
-  <img src="assets/icons/cv.svg" width="40" alt="CV"/>
-</a>
+- ⚡ [TwinFlux](https://github.com/Chabachib/Twin-Flux) - A physics-based electric vehicle intelligence platform.
+- 🧠 [EEG Based Emotion Detection](https://github.com/Chabachib/EEG-Based-Emotion-Detection) - Emotion recognition from EEG signals using the DEAP dataset.
 
-</div>
+I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](mailto:nouhtahachebchoub@gmail.com).
 
----
+#### Articles and Papers
 
-## Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,python,fastapi,grafana,kafka,mongodb,mysql,opencv,postgres,postman,pytorch,redis,sklearn,tensorflow&theme=light&perline=8)](https://skillicons.dev)
-
-</div>
-
-<br>
-
-Adaptable — always open to learning what the project requires.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chabachib&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chabachib&layout=compact&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-*Open to new opportunities and collaborations.*
-
-</div>
+- [Enhancing EEG-based emotion detection with hybrid models: Insights from DEAP dataset applications](https://doi.org/10.3390/s25061827)
+- [Fostering Innovative Learning Through Augmented Reality](https://doi.org/10.1007/978-3-031-94623-3_37)
