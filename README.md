@@ -18,7 +18,7 @@ Some projects I've built or contributed to:
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](mailto:nouhtahachebchoub@gmail.com).
 
-#### Articles and Papers
+### Articles and Papers
 
 - [Enhancing EEG-based emotion detection with hybrid models: Insights from DEAP dataset applications](https://doi.org/10.3390/s25061827)
 - [Fostering Innovative Learning Through Augmented Reality](https://doi.org/10.1007/978-3-031-94623-3_37)
