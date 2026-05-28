@@ -1,94 +1,58 @@
-<h1 align="center"> 😎 Welcome to Chabachib's Github 😊 </h1>
+<div align="center">
 
-## My name is ...
-<table>
-  <tr>
-    <td width="250">
-      <img src="assets/gifs/mynameis.gif" width="250">
-    </td>
-    <td valign="middle">
-      <p align="center">
-        <b>Nouh Taha CHEBCHOUB</b><br> 
-      </p>
-      <p align="justify">
-        AI Engineer & Data Scientist specializing in end-to-end 
-        machine learning systems, from data engineering to model deployment,
-        with a focus on scalability and performance.
-      </p>
-    </td>
-  </tr>
-</table>
+# Nouh Taha Chebchoub
 
-## Skill stack
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,python,fastapi,grafana,kafka,mongodb,mysql,opencv,postgres,postman,pytorch,redis,sklearn,tensorflow&theme=light&perline=8)](https://skillicons.dev)
+**AI Engineer · Data Scientist**
 
-**Also comfortable with**: whatever the Project/Job requires, always open to learn new things and fast 😎
+Building end-to-end ML systems — from data engineering to production deployment,  
+with a focus on scalability and performance.
+
+<br>
+
+<a href="https://www.linkedin.com/in/nouh-taha-chebchoub/">
+  <img src="assets/icons/linkedin.svg" width="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:nouhtahachebchoub@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="assets/docs/CV.pdf">
+  <img src="assets/icons/cv.svg" width="40" alt="CV"/>
+</a>
+
+</div>
 
 ---
 
-<!-- ## Projects - showcase
+## Tech Stack
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/Chabachib/EEG-Based-Emotion-Detection">
-        <img src="assets/pics/deap-dataset.png" width="100%" height="200">
-      </a>
-      <br>
-      <b>EEG based Emotion Detection <br> from DEAP Dataset</b>
-      <br>
-      <a href="https://github.com/Chabachib/EEG-Based-Emotion-Detection">Check the Repository</a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="#">
-        <img src="assets/pics/csgo.png" width="100%" height="200">
-      </a>
-      <b>GAN-Based FPS Agent for <br> Human-like Aimbot</b>
-      <br>
-      🔗 <a href="#">Check the Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="#">
-        <img src="assets/pics/carla.jpg" width="100%" height="200">
-      </a>
-      <b>Carla based Digital Twin for <br> an Electrical Vehicle</b>
-      <br>
-      🔗 <a href="#">Check the Repository</a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="#">
-        <img src="assets/pics/f1.jpg" width="100%" height="200">
-      </a>
-      <b>Formula 1 Races <br> Analysis (under dev)</b>
-      <br>
-      🔗 <a href="#">Check the Repository</a>
-    </td>
-  </tr>
-</table> -->
+<div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,python,fastapi,grafana,kafka,mongodb,mysql,opencv,postgres,postman,pytorch,redis,sklearn,tensorflow&theme=light&perline=8)](https://skillicons.dev)
 
-## Contact me 
+</div>
 
-<a href="mailto:your@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/nouh-taha-chebchoub/" target="blank">
-  <img src="assets/icons/linkedin.svg" width="48" style="border-radius:12px;"/>
-</a>
-<a href="assets/docs/CV.pdf" target="blank">
-  <img src="assets/icons/cv.svg" width="48" style="border-radius:12px;" /> 
-</a>
+<br>
 
-<table width="100%">
-  <tr>
-    <td width="70%" align="center">
-      <img src="assets/gifs/catkiss.gif" width="100%" style="max-width:450px; border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.3);">
-    </td>
-    <!-- Text column -->
-    <td width="30%" valign="middle" align="center">
-      <img src="assets/pics/haveaniceday.png">
-    </td>
-  </tr>
-</table>
+Adaptable — always open to learning what the project requires.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chabachib&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chabachib&layout=compact&hide_border=true" height="165" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to new opportunities and collaborations.*
+
+</div>
