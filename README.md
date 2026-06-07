@@ -5,6 +5,7 @@ I'm an AI Engineer and Data Scientist specializing in building end-to-end machin
 - 🔭 Currently working on scalable ML infrastructure, real-time data pipelines, and production AI systems.
 - 🛠️ My go-to stack: Python, FastAPI, Docker, PostgreSQL, MinIO, Grafana, Hashicorp Vault, and whatever the project demands.
 - 🌱 Always learning — currently diving deeper into MLOps and distributed systems.
+- 🚀 I enjoy building apps that solve real problems I encounter in my own work and daily life.
 - 💬 Ask me about **machine learning systems, data engineering, MLOps, and AI deployment**.
 - 📫 Reach me at [nouhtahachebchoub@gmail.com](mailto:nouhtahachebchoub@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nouh-taha-chebchoub/).
 - 📄 Check out my [CV](assets/docs/CV.pdf).
