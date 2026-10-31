@@ -23,4 +23,3 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 - [Enhancing EEG-based emotion detection with hybrid models: Insights from DEAP dataset applications](https://doi.org/10.3390/s25061827)
 - [Fostering Innovative Learning Through Augmented Reality](https://doi.org/10.1007/978-3-031-94623-3_37)
-- Physics-Grounded Synthetic Data Generation for Electric Vehicle Energy Modeling and State-of-Charge Estimation (Accepted on Sept 14, will be published later on)
